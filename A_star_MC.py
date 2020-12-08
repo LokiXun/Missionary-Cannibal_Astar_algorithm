@@ -1,7 +1,7 @@
 # coding:utf-8
 """
 人工智能A实验2 使用A*算法解决MC问题
-荀镕基 1819660230
+Loki Xun
 2020.12.8
 """
 import operator
